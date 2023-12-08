@@ -1,0 +1,9 @@
+{
+    // ... other eslint configurations
+  
+    "rules": {
+      // ... other rules
+      "no-unused-vars": "off"
+    }
+  }
+  
