@@ -1,12 +1,11 @@
 import React from 'react'
 import VerticalLinearStepper from './VerticalLinearStepper'
 
-function Leftbox({activeStep,setActiveStep}) {
+function Leftbox({activeStep}) {
   return (
     <div className="container1">
       <VerticalLinearStepper
        activeStep={activeStep}
-       setActiveStep={setActiveStep}
       />
     </div>
   )

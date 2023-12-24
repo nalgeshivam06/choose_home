@@ -15,7 +15,6 @@ function App() {
    <div className="container22">
    <Leftbox
    activeStep={activeStep}
-   setActiveStep={handleStepChange}
    />
    <Rightbox
    activeStep={activeStep}
